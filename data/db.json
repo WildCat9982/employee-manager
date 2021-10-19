@@ -1,0 +1,100 @@
+{
+    "employees": [
+      {
+        "first_name": "Henri",
+        "last_name": "Rodriguez",
+        "email": "Darrin_Rippin@gmail.com",
+        "number": "405-936-8560",
+        "gender": "Trans*Man",
+        "id": "1"
+      },
+      {
+        "first_name": "Lindsay",
+        "last_name": "Herman",
+        "email": "Ewald.Kunde@gmail.com",
+        "number": "249-379-7865",
+        "gender": "Gender Fluid",
+        "id": "2"
+      },
+      {
+        "first_name": "Gerda",
+        "last_name": "Trantow",
+        "email": "Mauricio.Stehr@yahoo.com",
+        "number": "200-997-3431",
+        "gender": "Trans*Man",
+        "id": "3"
+      },
+      {
+        "first_name": "Skye",
+        "last_name": "Rolfson",
+        "email": "Angelita_Simonis@hotmail.com",
+        "number": "257-321-3770",
+        "gender": "Cis",
+        "id": "4"
+      },
+      {
+        "first_name": "Simeon",
+        "last_name": "Russel",
+        "email": "Fabiola_Heidenreich@yahoo.com",
+        "number": "314-461-6423",
+        "gender": "Cisgender Woman",
+        "id": "5"
+      },
+      {
+        "first_name": "Kenyon",
+        "last_name": "Fahey",
+        "email": "Lia_Purdy@hotmail.com",
+        "number": "985-838-4669",
+        "gender": "Trans Female",
+        "id": "6"
+      },
+      {
+        "first_name": "Toni",
+        "last_name": "Boyle",
+        "email": "Vivien92@yahoo.com",
+        "number": "265-576-3740",
+        "gender": "Transexual Man",
+        "id": "7"
+      },
+      {
+        "first_name": "Fredy",
+        "last_name": "Fritsch",
+        "email": "Christopher_Wisozk37@yahoo.com",
+        "number": "820-928-5131",
+        "gender": "Neutrois",
+        "id": "8"
+      },
+      {
+        "first_name": "Elvis",
+        "last_name": "Konopelski",
+        "email": "Mavis27@gmail.com",
+        "number": "627-797-8947",
+        "gender": "Man",
+        "id": "9"
+      },
+      {
+        "first_name": "Lulu",
+        "last_name": "Reinger",
+        "email": "Melany_Rau70@gmail.com",
+        "number": "466-517-1540",
+        "gender": "Gender Fluid",
+        "id": "10"
+      },
+      {
+        "first_name": "Kelton",
+        "last_name": "Rau",
+        "email": "Patrick_Ratke@gmail.com",
+        "number": "592-399-9175",
+        "gender": "Gender Nonconforming",
+        "id": "11"
+      },
+      {
+        "first_name": "Adonis",
+        "last_name": "Schuppe",
+        "email": "Johann.Orn52@hotmail.com",
+        "number": "766-899-9886",
+        "gender": "Intersex",
+        "id": "12"
+      }
+    ]
+  }
